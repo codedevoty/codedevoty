@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codedevoty&label=Profile%20views&color=0e75b6&style=flat" alt="codedevoty" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codedevoty" alt="codedevoty" /></a> </p>
-
 - 🔭 I’m currently working on **farmSetu,Scandine, Employee Management System**
 
 - 🌱 I’m currently learning **C , HTML , CSS , JAVASCRIPT, Java ,SpringBoot, MYSQL , MONGODB**
